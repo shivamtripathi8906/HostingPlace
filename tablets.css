@@ -1,0 +1,73 @@
+@media (max-device-width: 1024px) {
+  .right_nav_content #button2 {
+    display: none;
+  }
+  .right_nav_content #button1 {
+    display: none;
+  }
+  .content1 {
+    display: none;
+  }
+  .homepage .introduction_content .main_photo {
+    width: 80%;
+  }
+  .homepage .introduction_content .main_photo #intro_button1 {
+    width: 70%;
+  }
+  .homepage .introduction_content .intro_text {
+    bottom: -6.5rem;
+    left: -2.5rem;
+  }
+  .reality1 {
+    flex-direction: column;
+  }
+  .real1 {
+    width: 100%;
+    height: 50%;
+  }
+  .real2 {
+    height: 50%;
+    width: 100%;
+    padding-top: 16.8%;
+  }
+  .reality2 {
+    flex-direction: column-reverse;
+  }
+  .real3 {
+    width: 100%;
+    height: 50%;
+    padding-top: 10%;
+  }
+  .real4 {
+    height: 50%;
+    width: 100%;
+    padding-top: 16.8%;
+  }
+  .reality {
+    height: 205vh;
+  }
+  div.conents_hor {
+    display: flex;
+    flex-direction: column;
+  }
+  .photoparts {
+    width: 70%;
+  }
+  .content_part {
+    width: 75%;
+  }
+  .work_description {
+    height: 32%;
+    margin-bottom: 5rem;
+  }
+  .description a {
+    font-size: 1.23rem;
+    margin-left: 50%;
+  }
+  div.horitontal_scroll {
+    height: 56.5%;
+  }
+  .scroll_button {
+    display: none;
+  }
+}

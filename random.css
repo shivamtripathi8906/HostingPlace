@@ -1,0 +1,20 @@
+@media screen and(max-width: 1200px) {
+  .homepage .introduction_content .intro_text {
+    bottom: -7.5rem;
+    left: -2.5rem;
+  }
+}
+@media screen and(max-width:870px) {
+  .homepage .introduction_content .intro_text {
+    bottom: -4.5rem;
+    left: -2.5rem;
+  }
+}
+@media screen and(max-width: 1023px) {
+  /* .work_description {
+    height: 55%;
+  } */
+  .scroll_button {
+    display: none;
+  }
+}

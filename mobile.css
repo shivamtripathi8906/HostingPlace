@@ -1,0 +1,57 @@
+@media (max-device-width: 480px) {
+  .homepage .introduction_content .intro_text {
+    bottom: -3.5rem;
+    left: -0.8rem;
+  }
+  .main_photo {
+    margin-bottom: 7.3rem;
+  }
+  .real2 h2 {
+    font-family: "Baloo Tammudu 2", cursive;
+    font-size: 2rem;
+    line-height: 100%;
+    padding-top: 1rem;
+  }
+  .real1 {
+    height: 50%;
+  }
+  .real3 h2 {
+    font-family: "Baloo Tammudu 2", cursive;
+    font-size: 1.5rem;
+    line-height: 100%;
+    padding-top: 1rem;
+  }
+  .real4 {
+    height: 50%;
+  }
+  .reality {
+    height: 200vh;
+  }
+  .r1 {
+    font-weight: 500;
+  }
+  .inverted_dot {
+    display: none;
+  }
+}
+@media (max-device-width: 380px) {
+  .homepage .introduction_content .intro_text {
+    bottom: 4.8rem;
+    left: -0.5rem;
+  }
+  .main_photo {
+    margin-bottom: 0.4rem;
+  }
+  .intro_text h1 {
+    line-height: 2.3rem;
+    font-size: 2.7rem;
+  }
+  .real2 h2 {
+    font-size: 1.6rem;
+    padding-top: 1rem;
+  }
+  .r1 {
+    font-family: "Baloo Tammudu 2", cursive;
+    font-size: 1.1rem;
+  }
+}
